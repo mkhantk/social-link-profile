@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github repo](https://github.com/mkhantk/social-link-profile)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Frontend Mentor | Social links profile](https://mkhantk.github.io/social-link-profile/)
 
 ## My process
 
