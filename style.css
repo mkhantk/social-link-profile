@@ -67,3 +67,8 @@ img {
     width: 100%;
     text-align: center;
 }
+
+.content .social:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 20%);
+}
